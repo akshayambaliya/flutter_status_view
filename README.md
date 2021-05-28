@@ -2,6 +2,10 @@
 
 Display status just like WhatsApp & Instagram..
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshayambaliya/flutter_status_view/main/assets/status.png" height="400px">
+</p>
+
 ## Installation
 
 You just need to add ```status_view``` as a dependency in your pubspec.yaml file.
