@@ -31,5 +31,17 @@ StatusView(
           ),
 ```
 
+| Attributes         | Description                           |
+| ---------------    | ------------------------------------- |
+| radius             | radius of status view circul          |
+| spacing            | spacing between two status indicator          |
+| strokeWidth        | strokeWidth of status indicator                        |
+| indexOfSeenStatus  | index of which status is already seen           |
+| numberOfStatus     | total number of status |
+| padding            | padding between status indicator and center image              |
+| centerImageUrl     | center image **required**|
+| seenColor          | color of already seen status |
+| unSeenColor        | color of unSeen status |
+
 ## Contributing
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
