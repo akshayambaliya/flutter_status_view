@@ -1,7 +1,7 @@
 name: status_view
 description: Display status just like WhatsApp & Instagram.
 version: 0.0.1
-homepage:
+homepage: https://github.com/akshayambaliya/flutter_status_view
 
 environment:
   sdk: ">=2.12.0 <3.0.0"

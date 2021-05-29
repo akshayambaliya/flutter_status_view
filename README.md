@@ -1,7 +1,6 @@
 # status_view
 
-Display status just like WhatsApp & Instagram..
-
+Display status just like WhatsApp & Instagram. This package help to display users status like WhatsApp status. in this we can specify the number of status ,seen and unseen status as well, apart from that same package use to display status like Instagram.
 <p align="center">
   <img src="https://raw.githubusercontent.com/akshayambaliya/flutter_status_view/main/assets/status.png" height="400px">
 </p>
